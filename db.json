@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Iqbal",
+      "address": "Bandung",
+      "age": 20,
+      "telp": "08979287864"
+    },
+    {
+      "id": 2,
+      "name": "Alamsyah",
+      "address": "Depok",
+      "age": 20,
+      "telp": "08979287861"
+    },
+    {
+      "id": 3,
+      "name": "Sanjaya",
+      "address": "Bogor",
+      "age": 21,
+      "telp": "08979287861"
+    }
+  ]
+}
